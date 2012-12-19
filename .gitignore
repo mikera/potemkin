@@ -4,3 +4,6 @@ lib
 classes
 .lein*
 target/**
+/.project
+/.classpath
+/target
